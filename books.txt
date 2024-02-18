@@ -1,2 +1,6 @@
-b,b,b,b
-l,l,l,l
+Deneme,dads,1877,188
+asd,asdad,21312,222
+T3,T3,1995,199
+Saka,ASD,222,188
+KucukPrens,noName,33,66
+ASDA,NONAMES,1199,16
